@@ -1,0 +1,1618 @@
+{
+  "07.628.528/0001-59": {
+    "razao_social": "BRASILAGRO CIA BRAS DE PROP AGRICOLAS",
+    "setor": "Agricultura (Açúcar, Álcool e Cana)",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "50.746.577/0001-15": {
+    "razao_social": "COSAN S.A.",
+    "setor": "Agricultura (Açúcar, Álcool e Cana)",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "06.981.381/0001-13": {
+    "razao_social": "CTC - CENTRO DE TECNOLOGIA CANAVIEIRA S.A.",
+    "setor": "Agricultura (Açúcar, Álcool e Cana)",
+    "municipio": "PIRACICABA",
+    "uf": "SP",
+    "lat": -22.7338,
+    "lon": -47.6476
+  },
+  "02.635.522/0001-95": {
+    "razao_social": "JALLES MACHADO S.A.",
+    "setor": "Agricultura (Açúcar, Álcool e Cana)",
+    "municipio": "GOIANESIA",
+    "uf": "GO",
+    "lat": -15.3118,
+    "lon": -49.1162
+  },
+  "89.096.457/0001-55": {
+    "razao_social": "SLC AGRICOLA SA",
+    "setor": "Agricultura (Açúcar, Álcool e Cana)",
+    "municipio": "PORTO ALEGRE",
+    "uf": "RS",
+    "lat": -30.0318,
+    "lon": -51.2065
+  },
+  "51.466.860/0001-56": {
+    "razao_social": "SÃO MARTINHO SA",
+    "setor": "Agricultura (Açúcar, Álcool e Cana)",
+    "municipio": "PRADOPOLIS",
+    "uf": "SP",
+    "lat": -21.3626,
+    "lon": -48.0679
+  },
+  "10.807.374/0001-77": {
+    "razao_social": "BOA SAFRA SEMENTES S.A",
+    "setor": "Alimentos",
+    "municipio": "FORMOSA",
+    "uf": "GO",
+    "lat": -15.54,
+    "lon": -47.337
+  },
+  "64.904.295/0001-03": {
+    "razao_social": "CAMIL ALIMENTOS S/A",
+    "setor": "Alimentos",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "97.191.902/0001-94": {
+    "razao_social": "CONSERVAS ODERICH SA",
+    "setor": "Alimentos",
+    "municipio": "SAO SEBASTIAO DO CAI",
+    "uf": "RS",
+    "lat": -29.5885,
+    "lon": -51.3749
+  },
+  "17.314.329/0001-20": {
+    "razao_social": "INTERNATIONAL MEAL COMPANY ALIMENTAÇÃO S.A.",
+    "setor": "Alimentos",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "02.916.265/0001-60": {
+    "razao_social": "JBS SA",
+    "setor": "Alimentos",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "07.206.816/0001-15": {
+    "razao_social": "M. DIAS BRANCO SA IND E COM DE ALIMENTOS",
+    "setor": "Alimentos",
+    "municipio": "EUSEBIO",
+    "uf": "CE",
+    "lat": -3.8925,
+    "lon": -38.4559
+  },
+  "03.853.896/0001-40": {
+    "razao_social": "MARFRIG GLOBAL FOODS SA",
+    "setor": "Alimentos",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "67.620.377/0001-14": {
+    "razao_social": "MINERVA S/A",
+    "setor": "Alimentos",
+    "municipio": "BARRETOS",
+    "uf": "SP",
+    "lat": -20.5531,
+    "lon": -48.5698
+  },
+  "13.574.594/0001-96": {
+    "razao_social": "ZAMP S.A.",
+    "setor": "Alimentos",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "07.526.557/0001-00": {
+    "razao_social": "AMBEV S.A.",
+    "setor": "Bebidas e Fumo",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "09.346.601/0001-25": {
+    "razao_social": "B3 S.A. - BRASIL, BOLSA, BALCÃO",
+    "setor": "Bolsas de Valores/Mercadorias e Futuros",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "56.992.423/0001-90": {
+    "razao_social": "BICICLETAS MONARK SA",
+    "setor": "Brinquedos e Lazer",
+    "municipio": "INDAIATUBA",
+    "uf": "SP",
+    "lat": -23.0816,
+    "lon": -47.2101
+  },
+  "61.082.004/0001-50": {
+    "razao_social": "MANUFATURA DE  BRINQUEDOS ESTRELA SA",
+    "setor": "Brinquedos e Lazer",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "07.594.978/0001-78": {
+    "razao_social": "SMARTFIT ESCOLA DE GINÁSTICA E DANÇA S.A.",
+    "setor": "Brinquedos e Lazer",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "02.860.694/0001-62": {
+    "razao_social": "T4F ENTRETENIMENTO SA",
+    "setor": "Brinquedos e Lazer",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "09.042.817/0001-05": {
+    "razao_social": "BEMOBI MOBILE TECH S.A.",
+    "setor": "Comunicação e Informática",
+    "municipio": "RIO DE JANEIRO",
+    "uf": "RJ",
+    "lat": -22.9129,
+    "lon": -43.2003
+  },
+  "36.542.025/0001-64": {
+    "razao_social": "BRQ SOLUÇÕES EM INFORMÁTICA S.A.",
+    "setor": "Comunicação e Informática",
+    "municipio": "BARUERI",
+    "uf": "SP",
+    "lat": -23.5057,
+    "lon": -46.879
+  },
+  "18.174.270/0001-84": {
+    "razao_social": "DOTZ S.A.",
+    "setor": "Comunicação e Informática",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "02.351.877/0001-52": {
+    "razao_social": "LWSA S/A",
+    "setor": "Comunicação e Informática",
+    "municipio": "São Paulo",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "14.110.585/0001-07": {
+    "razao_social": "MELIUZ S.A.",
+    "setor": "Comunicação e Informática",
+    "municipio": "SAO BERNARDO DO CAMPO",
+    "uf": "SP",
+    "lat": -23.6914,
+    "lon": -46.5646
+  },
+  "81.243.735/0001-48": {
+    "razao_social": "POSITIVO TECNOLOGIA S.A.",
+    "setor": "Comunicação e Informática",
+    "municipio": "CURITIBA",
+    "uf": "PR",
+    "lat": -25.4195,
+    "lon": -49.2646
+  },
+  "53.113.791/0001-22": {
+    "razao_social": "TOTVS S.A",
+    "setor": "Comunicação e Informática",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "33.113.309/0001-47": {
+    "razao_social": "VALID SOLUÇÕES S.A.",
+    "setor": "Comunicação e Informática",
+    "municipio": "SOROCABA",
+    "uf": "SP",
+    "lat": -23.4969,
+    "lon": -47.4451
+  },
+  "47.508.411/0001-56": {
+    "razao_social": "COMPANHIA BRASILEIRA DE DISTRIBUIÇÃO",
+    "setor": "Comércio (Atacado e Varejo)",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "12.108.897/0001-50": {
+    "razao_social": "D1000 VAREJO FARMA PARTICIPAÇÕES S.A.",
+    "setor": "Comércio (Atacado e Varejo)",
+    "municipio": "RIO DE JANEIRO",
+    "uf": "RJ",
+    "lat": -22.9129,
+    "lon": -43.2003
+  },
+  "92.665.611/0001-77": {
+    "razao_social": "DIMED SA DISTRIBUIDORA DE MEDICAMENTOS",
+    "setor": "Comércio (Atacado e Varejo)",
+    "municipio": "ELDORADO DO SUL",
+    "uf": "RS",
+    "lat": -30.0847,
+    "lon": -51.6187
+  },
+  "06.626.253/0001-51": {
+    "razao_social": "EMPREENDIMENTOS PAGUE MENOS SA",
+    "setor": "Comércio (Atacado e Varejo)",
+    "municipio": "FORTALEZA",
+    "uf": "CE",
+    "lat": -3.71664,
+    "lon": -38.5423
+  },
+  "16.922.038/0001-51": {
+    "razao_social": "ENJOEI S.A.",
+    "setor": "Comércio (Atacado e Varejo)",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "08.764.621/0001-53": {
+    "razao_social": "GENERAL SHOPPING E OUTLETS DO BRASIL BRASIL S.A.",
+    "setor": "Comércio (Atacado e Varejo)",
+    "municipio": "São Paulo",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "92.012.467/0001-70": {
+    "razao_social": "GRAZZIOTIN SA",
+    "setor": "Comércio (Atacado e Varejo)",
+    "municipio": "PASSO FUNDO",
+    "uf": "RS",
+    "lat": -28.2576,
+    "lon": -52.4091
+  },
+  "33.041.260/0652-90": {
+    "razao_social": "GRUPO CASAS BAHIA S.A.",
+    "setor": "Comércio (Atacado e Varejo)",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "13.217.485/0001-11": {
+    "razao_social": "GRUPO SBF S.A.",
+    "setor": "Comércio (Atacado e Varejo)",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "31.553.627/0001-01": {
+    "razao_social": "GRUPO TOKY S.A.",
+    "setor": "Comércio (Atacado e Varejo)",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "51.218.147/0001-93": {
+    "razao_social": "IGUATEMI EMPRESA DE SHOPPING CENTERS S/A",
+    "setor": "Comércio (Atacado e Varejo)",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "82.901.000/0001-27": {
+    "razao_social": "INTELBRAS S.A. IND. DE TELECOMUNICAÇÃO ELETRÔNICA BRASILEIRA",
+    "setor": "Comércio (Atacado e Varejo)",
+    "municipio": "SAO JOSE",
+    "uf": "SC",
+    "lat": -27.6136,
+    "lon": -48.6366
+  },
+  "96.418.264/0218-02": {
+    "razao_social": "LOJAS QUERO QUERO S.A.",
+    "setor": "Comércio (Atacado e Varejo)",
+    "municipio": "CACHOEIRINHA",
+    "uf": "RS",
+    "lat": -29.9472,
+    "lon": -51.1016
+  },
+  "92.754.738/0001-62": {
+    "razao_social": "LOJAS RENNER SA",
+    "setor": "Comércio (Atacado e Varejo)",
+    "municipio": "PORTO ALEGRE",
+    "uf": "RS",
+    "lat": -30.0318,
+    "lon": -51.2065
+  },
+  "47.960.950/0001-21": {
+    "razao_social": "MAGAZINE LUIZA SA",
+    "setor": "Comércio (Atacado e Varejo)",
+    "municipio": "FRANCA",
+    "uf": "SP",
+    "lat": -20.5352,
+    "lon": -47.4039
+  },
+  "61.189.288/0001-89": {
+    "razao_social": "MARISA LOJAS SA",
+    "setor": "Comércio (Atacado e Varejo)",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "20.258.278/0001-70": {
+    "razao_social": "OUROFINO S.A.",
+    "setor": "Comércio (Atacado e Varejo)",
+    "municipio": "CRAVINHOS",
+    "uf": "SP",
+    "lat": -21.338,
+    "lon": -47.7324
+  },
+  "45.453.214/0001-51": {
+    "razao_social": "PROFARMA DISTRIB PROD FARMACEUTICOS S.A.",
+    "setor": "Comércio (Atacado e Varejo)",
+    "municipio": "RIO DE JANEIRO",
+    "uf": "RJ",
+    "lat": -22.9129,
+    "lon": -43.2003
+  },
+  "61.585.865/0001-51": {
+    "razao_social": "RAIA DROGASIL S.A.",
+    "setor": "Comércio (Atacado e Varejo)",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "06.057.223/0001-71": {
+    "razao_social": "SENDAS DISTRIBUIDORA S.A.",
+    "setor": "Comércio (Atacado e Varejo)",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "09.295.063/0001-97": {
+    "razao_social": "TECHNOS SA",
+    "setor": "Comércio (Atacado e Varejo)",
+    "municipio": "RIO DE JANEIRO",
+    "uf": "RJ",
+    "lat": -22.9129,
+    "lon": -43.2003
+  },
+  "34.274.233/0001-02": {
+    "razao_social": "VIBRA ENERGIA S/A",
+    "setor": "Comércio (Atacado e Varejo)",
+    "municipio": "RIO DE JANEIRO",
+    "uf": "RJ",
+    "lat": -22.9129,
+    "lon": -43.2003
+  },
+  "33.839.910/0001-11": {
+    "razao_social": "VIVARA PARTICIPAÇÕES S.A.",
+    "setor": "Comércio (Atacado e Varejo)",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "16.811.931/0001-00": {
+    "razao_social": "ALPHAVILLE S.A.",
+    "setor": "Construção Civil, Mat. Constr. e Decoração",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "61.351.532/0001-68": {
+    "razao_social": "AZEVEDO & TRAVASSOS SA",
+    "setor": "Construção Civil, Mat. Constr. e Decoração",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "61.022.042/0001-18": {
+    "razao_social": "CONSTRUTORA ADOLPHO LINDENBERG S.A.",
+    "setor": "Construção Civil, Mat. Constr. e Decoração",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "71.476.527/0001-35": {
+    "razao_social": "CONSTRUTORA TENDA S/A",
+    "setor": "Construção Civil, Mat. Constr. e Decoração",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "08.797.760/0001-83": {
+    "razao_social": "CURY CONSTRUTORA E INCORPORADORA S.A.",
+    "setor": "Construção Civil, Mat. Constr. e Decoração",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "73.178.600/0001-18": {
+    "razao_social": "CYRELA BRAZIL REALTY S.A.EMPREEND E PART",
+    "setor": "Construção Civil, Mat. Constr. e Decoração",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "97.837.181/0001-47": {
+    "razao_social": "DEXCO S.A.",
+    "setor": "Construção Civil, Mat. Constr. e Decoração",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "16.614.075/0001-00": {
+    "razao_social": "DIRECIONAL ENGENHARIA SA",
+    "setor": "Construção Civil, Mat. Constr. e Decoração",
+    "municipio": "BELO HORIZONTE",
+    "uf": "MG",
+    "lat": -19.9102,
+    "lon": -43.9266
+  },
+  "61.092.037/0001-81": {
+    "razao_social": "ETERNIT S.A.",
+    "setor": "Construção Civil, Mat. Constr. e Decoração",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "56.643.018/0001-66": {
+    "razao_social": "EUCATEX S.A. INDUSTRIA E COMERCIO",
+    "setor": "Construção Civil, Mat. Constr. e Decoração",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "43.470.988/0001-65": {
+    "razao_social": "EVEN CONSTRUTORA E INCORPORADORA S/A",
+    "setor": "Construção Civil, Mat. Constr. e Decoração",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "07.820.907/0001-46": {
+    "razao_social": "FICA EMPREENDIMENTOS IMOBILIARIOS S.A.",
+    "setor": "Construção Civil, Mat. Constr. e Decoração",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "01.545.826/0001-07": {
+    "razao_social": "GAFISA SA",
+    "setor": "Construção Civil, Mat. Constr. e Decoração",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "14.785.152/0001-51": {
+    "razao_social": "HBR REALTY EMPREENDIMENTOS IMOBILIÁRIOS S.A.",
+    "setor": "Construção Civil, Mat. Constr. e Decoração",
+    "municipio": "MOGI DAS CRUZES",
+    "uf": "SP",
+    "lat": -23.5208,
+    "lon": -46.1854
+  },
+  "49.263.189/0001-02": {
+    "razao_social": "HELBOR EMPREENDIMENTOS S/A",
+    "setor": "Construção Civil, Mat. Constr. e Decoração",
+    "municipio": "MOGI DAS CRUZES",
+    "uf": "SP",
+    "lat": -23.5208,
+    "lon": -46.1854
+  },
+  "09.611.768/0001-76": {
+    "razao_social": "INC EMPREENDIMENTOS IMOBILIÁRIOS S.A.",
+    "setor": "Construção Civil, Mat. Constr. e Decoração",
+    "municipio": "JUIZ DE FORA",
+    "uf": "MG",
+    "lat": -21.7595,
+    "lon": -43.3398
+  },
+  "26.462.693/0001-28": {
+    "razao_social": "LAVVI EMPREENDIMENTOS IMOBILIÁRIOS S.A",
+    "setor": "Construção Civil, Mat. Constr. e Decoração",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "09.041.168/0001-10": {
+    "razao_social": "LOG COMMERCIAL PROPERTIES E PARTICIPAÇÕES",
+    "setor": "Construção Civil, Mat. Constr. e Decoração",
+    "municipio": "BELO HORIZONTE",
+    "uf": "MG",
+    "lat": -19.9102,
+    "lon": -43.9266
+  },
+  "07.882.930/0001-65": {
+    "razao_social": "MITRE REALTY EMPREENDIMENTOS E PARTICIPAÇÕES S.A.",
+    "setor": "Construção Civil, Mat. Constr. e Decoração",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "12.049.631/0001-84": {
+    "razao_social": "MOURA DUBEUX ENGENHARIA S/A",
+    "setor": "Construção Civil, Mat. Constr. e Decoração",
+    "municipio": "RECIFE",
+    "uf": "PE",
+    "lat": -8.04666,
+    "lon": -34.8771
+  },
+  "08.343.492/0001-20": {
+    "razao_social": "MRV ENGENHARIA E PARTICIPAÇÕES S/A",
+    "setor": "Construção Civil, Mat. Constr. e Decoração",
+    "municipio": "Belo Horizonte",
+    "uf": "MG",
+    "lat": -19.9102,
+    "lon": -43.9266
+  },
+  "83.475.913/0001-91": {
+    "razao_social": "PBG S/A",
+    "setor": "Construção Civil, Mat. Constr. e Decoração",
+    "municipio": "TIJUCAS",
+    "uf": "SC",
+    "lat": -27.2354,
+    "lon": -48.6322
+  },
+  "24.230.275/0001-80": {
+    "razao_social": "PLANO & PLANO DESENVOLVIMENTO IMOBILIÁRIO S.A.",
+    "setor": "Construção Civil, Mat. Constr. e Decoração",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "18.593.815/0001-97": {
+    "razao_social": "PRINER SERVIÇOS INDUSTRIAIS S.A.",
+    "setor": "Construção Civil, Mat. Constr. e Decoração",
+    "municipio": "RIO DE JANEIRO",
+    "uf": "RJ",
+    "lat": -22.9129,
+    "lon": -43.2003
+  },
+  "67.010.660/0001-24": {
+    "razao_social": "RNI NEGÓCIOS IMOBILIÁRIOS S.A.",
+    "setor": "Construção Civil, Mat. Constr. e Decoração",
+    "municipio": "SAO JOSE DO RIO PRETO",
+    "uf": "SP",
+    "lat": -20.8113,
+    "lon": -49.3758
+  },
+  "33.386.210/0001-19": {
+    "razao_social": "SONDOTECNICA ENGENHARIA SOLOS S.A.",
+    "setor": "Construção Civil, Mat. Constr. e Decoração",
+    "municipio": "RIO DE JANEIRO",
+    "uf": "RJ",
+    "lat": -22.9129,
+    "lon": -43.2003
+  },
+  "08.065.557/0001-12": {
+    "razao_social": "TECNISA S/A",
+    "setor": "Construção Civil, Mat. Constr. e Decoração",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "90.441.460/0001-48": {
+    "razao_social": "UNICASA INDÚSTRIA DE MÓVEIS S.A.",
+    "setor": "Construção Civil, Mat. Constr. e Decoração",
+    "municipio": "BENTO GONCALVES",
+    "uf": "RS",
+    "lat": -29.1662,
+    "lon": -51.5165
+  },
+  "67.571.414/0001-41": {
+    "razao_social": "VIVER INCORPORADORA E CONSTRUTORA S.A",
+    "setor": "Construção Civil, Mat. Constr. e Decoração",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "11.284.204/0001-18": {
+    "razao_social": "YOU INC INCORPORADORA E PARTICIPAÇÃO S.A",
+    "setor": "Construção Civil, Mat. Constr. e Decoração",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "09.288.252/0001-32": {
+    "razao_social": "ANIMA HOLDING S/A",
+    "setor": "Educação",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "23.994.857/0001-70": {
+    "razao_social": "ATOM EDUCAÇÃO E EDITORA S.A.",
+    "setor": "Educação",
+    "municipio": "SOROCABA",
+    "uf": "SP",
+    "lat": -23.4969,
+    "lon": -47.4451
+  },
+  "62.984.091/0001-02": {
+    "razao_social": "CRUZEIRO DO SUL EDUCACIONAL S.A.",
+    "setor": "Educação",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "04.986.320/0001-13": {
+    "razao_social": "SER EDUCACIONAL S.A.",
+    "setor": "Educação",
+    "municipio": "RECIFE",
+    "uf": "PE",
+    "lat": -8.04666,
+    "lon": -34.8771
+  },
+  "28.594.234/0001-23": {
+    "razao_social": "AUREN ENERGIA S.A",
+    "setor": "Energia Elétrica",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "83.878.892/0001-55": {
+    "razao_social": "CENTRAIS ELETRICAS DE SANTA CATARINA S.A",
+    "setor": "Energia Elétrica",
+    "municipio": "FLORIANOPOLIS",
+    "uf": "SC",
+    "lat": -27.5945,
+    "lon": -48.5477
+  },
+  "60.933.603/0001-78": {
+    "razao_social": "CESP - COMPANHIA ENERGÉTICA DE SÃO PAULO",
+    "setor": "Energia Elétrica",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "17.155.730/0001-64": {
+    "razao_social": "CIA ENERG MINAS GERAIS - CEMIG",
+    "setor": "Energia Elétrica",
+    "municipio": "BELO HORIZONTE",
+    "uf": "MG",
+    "lat": -19.9102,
+    "lon": -43.9266
+  },
+  "00.070.698/0001-11": {
+    "razao_social": "COMPANHIA ENERGÉTICA DE BRASÍLIA - CEB",
+    "setor": "Energia Elétrica",
+    "municipio": "BRASILIA",
+    "uf": "DF",
+    "lat": -15.7795,
+    "lon": -47.9297
+  },
+  "76.483.817/0001-20": {
+    "razao_social": "COMPANHIA PARANAENSE DE ENERGIA COPEL",
+    "setor": "Energia Elétrica",
+    "municipio": "CURITIBA",
+    "uf": "PR",
+    "lat": -25.4195,
+    "lon": -49.2646
+  },
+  "92.715.812/0001-31": {
+    "razao_social": "CPFL TRANSMISSÃO S.A.",
+    "setor": "Energia Elétrica",
+    "municipio": "PORTO ALEGRE",
+    "uf": "RS",
+    "lat": -30.0318,
+    "lon": -51.2065
+  },
+  "03.983.431/0001-03": {
+    "razao_social": "EDP ENERGIAS DO BRASIL S/A",
+    "setor": "Energia Elétrica",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "02.302.101/0001-42": {
+    "razao_social": "EMAE - EMPRESA METROP.AGUAS ENERGIA S.A.",
+    "setor": "Energia Elétrica",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "04.423.567/0001-21": {
+    "razao_social": "ENEVA S.A.",
+    "setor": "Energia Elétrica",
+    "municipio": "RIO DE JANEIRO",
+    "uf": "RJ",
+    "lat": -22.9129,
+    "lon": -43.2003
+  },
+  "02.474.103/0001-19": {
+    "razao_social": "ENGIE BRASIL ENERGIA S.A.",
+    "setor": "Energia Elétrica",
+    "municipio": "FLORIANOPOLIS",
+    "uf": "SC",
+    "lat": -27.5945,
+    "lon": -48.5477
+  },
+  "03.220.438/0001-73": {
+    "razao_social": "EQUATORIAL S.A.",
+    "setor": "Energia Elétrica",
+    "municipio": "SAO LUIS",
+    "uf": "MA",
+    "lat": -2.53874,
+    "lon": -44.2825
+  },
+  "02.998.611/0001-04": {
+    "razao_social": "ISA ENERGIA BRASIL S.A.",
+    "setor": "Energia Elétrica",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "61.584.140/0001-49": {
+    "razao_social": "REDE ENERGIA PARTICIPAÇÕES S.A.",
+    "setor": "Energia Elétrica",
+    "municipio": "CATAGUASES",
+    "uf": "MG",
+    "lat": -21.3924,
+    "lon": -42.6896
+  },
+  "08.534.605/0001-74": {
+    "razao_social": "RENOVA ENERGIA S.A.",
+    "setor": "Energia Elétrica",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "02.998.301/0001-81": {
+    "razao_social": "RIO PARANAPANEMA ENERGIA SA",
+    "setor": "Energia Elétrica",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "61.409.892/0001-73": {
+    "razao_social": "COMPANHIA BRASILEIRA DE ALUMINIO",
+    "setor": "Extração Mineral",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "08.902.291/0001-15": {
+    "razao_social": "CSN MINERAÇÃO S.A.",
+    "setor": "Extração Mineral",
+    "municipio": "CONGONHAS",
+    "uf": "MG",
+    "lat": -20.4958,
+    "lon": -43.851
+  },
+  "33.592.510/0001-54": {
+    "razao_social": "VALE S.A.",
+    "setor": "Extração Mineral",
+    "municipio": "Rio de Janeiro",
+    "uf": "RJ",
+    "lat": -22.9129,
+    "lon": -43.2003
+  },
+  "04.752.991/0001-10": {
+    "razao_social": "BIOMM SA",
+    "setor": "Farmacêutico e Higiene",
+    "municipio": "NOVA LIMA",
+    "uf": "MG",
+    "lat": -19.9758,
+    "lon": -43.8509
+  },
+  "58.430.828/0001-60": {
+    "razao_social": "BLAU FARMACÊUTICA S.A.",
+    "setor": "Farmacêutico e Higiene",
+    "municipio": "COTIA",
+    "uf": "SP",
+    "lat": -23.6022,
+    "lon": -46.919
+  },
+  "61.190.096/0001-92": {
+    "razao_social": "EUROFARMA LABORATÓRIOS S.A.",
+    "setor": "Farmacêutico e Higiene",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "02.932.074/0001-91": {
+    "razao_social": "HYPERA S/A",
+    "setor": "Farmacêutico e Higiene",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "71.673.990/0001-77": {
+    "razao_social": "NATURA COSMETICOS SA",
+    "setor": "Farmacêutico e Higiene",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "10.760.260/0001-19": {
+    "razao_social": "CVC BRASIL OPERADORA E AGÊNCIA DE VIAGENS SA",
+    "setor": "Hospedagem e Turismo",
+    "municipio": "SANTO ANDRE",
+    "uf": "SP",
+    "lat": -23.6737,
+    "lon": -46.5432
+  },
+  "61.374.161/0001-30": {
+    "razao_social": "BAUMER SA",
+    "setor": "Metalurgia e Siderurgia",
+    "municipio": "MOGI MIRIM",
+    "uf": "SP",
+    "lat": -22.4332,
+    "lon": -46.9532
+  },
+  "15.141.799/0001-03": {
+    "razao_social": "CIA FERRO LIGAS BAHIA FERBASA",
+    "setor": "Metalurgia e Siderurgia",
+    "municipio": "POJUCA",
+    "uf": "BA",
+    "lat": -12.4303,
+    "lon": -38.3374
+  },
+  "33.042.730/0001-04": {
+    "razao_social": "CIA SIDERURGICA NACIONAL",
+    "setor": "Metalurgia e Siderurgia",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "82.643.537/0001-34": {
+    "razao_social": "ELECTRO AÇO ALTONA S/A",
+    "setor": "Metalurgia e Siderurgia",
+    "municipio": "BLUMENAU",
+    "uf": "SC",
+    "lat": -26.9155,
+    "lon": -49.0709
+  },
+  "33.611.500/0001-19": {
+    "razao_social": "GERDAU S.A.",
+    "setor": "Metalurgia e Siderurgia",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "30.540.991/0001-66": {
+    "razao_social": "HAGA S.A. INDÚSTRIA E COMÉRCIO",
+    "setor": "Metalurgia e Siderurgia",
+    "municipio": "NOVA FRIBURGO",
+    "uf": "RJ",
+    "lat": -22.2932,
+    "lon": -42.5377
+  },
+  "86.375.425/0001-09": {
+    "razao_social": "METISA METALÚRGICA  TIMBOENSE SA",
+    "setor": "Metalurgia e Siderurgia",
+    "municipio": "TIMBO",
+    "uf": "SC",
+    "lat": -26.8246,
+    "lon": -49.269
+  },
+  "92.693.019/0001-89": {
+    "razao_social": "PANATLANTICA SA",
+    "setor": "Metalurgia e Siderurgia",
+    "municipio": "GRAVATAI",
+    "uf": "RS",
+    "lat": -29.9413,
+    "lon": -50.9869
+  },
+  "84.693.183/0001-68": {
+    "razao_social": "SCHULZ SA",
+    "setor": "Metalurgia e Siderurgia",
+    "municipio": "JOINVILLE",
+    "uf": "SC",
+    "lat": -26.3045,
+    "lon": -48.8487
+  },
+  "84.683.374/0001-49": {
+    "razao_social": "TUPY SA",
+    "setor": "Metalurgia e Siderurgia",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "60.894.730/0001-05": {
+    "razao_social": "USINAS SID DE MINAS GERAIS S.A.-USIMINAS",
+    "setor": "Metalurgia e Siderurgia",
+    "municipio": "BELO HORIZONTE",
+    "uf": "MG",
+    "lat": -19.9102,
+    "lon": -43.9266
+  },
+  "84.683.671/0001-94": {
+    "razao_social": "WETZEL S.A.",
+    "setor": "Metalurgia e Siderurgia",
+    "municipio": "JOINVILLE",
+    "uf": "SC",
+    "lat": -26.3045,
+    "lon": -48.8487
+  },
+  "12.528.708/0001-07": {
+    "razao_social": "AERIS IND. E COM. DE EQUIP. PARA GER. DE ENG. S.A.",
+    "setor": "Máquinas, Equipamentos, Veículos e Peças",
+    "municipio": "CAUCAIA",
+    "uf": "CE",
+    "lat": -3.72797,
+    "lon": -38.6619
+  },
+  "07.689.002/0001-89": {
+    "razao_social": "EMBRAER S.A.",
+    "setor": "Máquinas, Equipamentos, Veículos e Peças",
+    "municipio": "SAO JOSE DOS CAMPOS",
+    "uf": "SP",
+    "lat": -23.1896,
+    "lon": -45.8841
+  },
+  "88.610.126/0001-29": {
+    "razao_social": "FRASLE MOBILITY S.A.",
+    "setor": "Máquinas, Equipamentos, Veículos e Peças",
+    "municipio": "CAXIAS DO SUL",
+    "uf": "RS",
+    "lat": -29.1629,
+    "lon": -51.1792
+  },
+  "61.156.113/0001-75": {
+    "razao_social": "IOCHPE MAXION SA",
+    "setor": "Máquinas, Equipamentos, Veículos e Peças",
+    "municipio": "CRUZEIRO",
+    "uf": "SP",
+    "lat": -22.5728,
+    "lon": -44.969
+  },
+  "60.476.884/0001-87": {
+    "razao_social": "MAHLE METAL LEVE S.A.",
+    "setor": "Máquinas, Equipamentos, Veículos e Peças",
+    "municipio": "MOGI GUACU",
+    "uf": "SP",
+    "lat": -22.3675,
+    "lon": -46.9428
+  },
+  "88.611.835/0001-29": {
+    "razao_social": "MARCOPOLO SA",
+    "setor": "Máquinas, Equipamentos, Veículos e Peças",
+    "municipio": "CAXIAS DO SUL",
+    "uf": "RS",
+    "lat": -29.1629,
+    "lon": -51.1792
+  },
+  "04.821.041/0001-08": {
+    "razao_social": "METALFRIO SOLUTIONS S/A",
+    "setor": "Máquinas, Equipamentos, Veículos e Peças",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "85.778.074/0001-06": {
+    "razao_social": "METALURGICA RIOSULENSE SA",
+    "setor": "Máquinas, Equipamentos, Veículos e Peças",
+    "municipio": "RIO DO SUL",
+    "uf": "SC",
+    "lat": -27.2156,
+    "lon": -49.643
+  },
+  "89.086.144/0001-16": {
+    "razao_social": "RANDONCORP S.A.",
+    "setor": "Máquinas, Equipamentos, Veículos e Peças",
+    "municipio": "CAXIAS DO SUL",
+    "uf": "RS",
+    "lat": -29.1629,
+    "lon": -51.1792
+  },
+  "91.333.666/0001-17": {
+    "razao_social": "RECRUSUL SA",
+    "setor": "Máquinas, Equipamentos, Veículos e Peças",
+    "municipio": "PORTO ALEGRE",
+    "uf": "RS",
+    "lat": -30.0318,
+    "lon": -51.2065
+  },
+  "56.720.428/0001-63": {
+    "razao_social": "ROMI S.A.",
+    "setor": "Máquinas, Equipamentos, Veículos e Peças",
+    "municipio": "SANTA BARBARA D'OESTE",
+    "uf": "SP",
+    "lat": -22.7553,
+    "lon": -47.4143
+  },
+  "92.781.335/0001-02": {
+    "razao_social": "TAURUS ARMAS S.A.",
+    "setor": "Máquinas, Equipamentos, Veículos e Peças",
+    "municipio": "São Leopoldo",
+    "uf": "RS",
+    "lat": -29.7545,
+    "lon": -51.1498
+  },
+  "59.105.999/0001-86": {
+    "razao_social": "WHIRLPOOL S.A",
+    "setor": "Máquinas, Equipamentos, Veículos e Peças",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "60.730.348/0001-66": {
+    "razao_social": "COMPANHIA  MELHORAMENTOS DE SÃO PAULO",
+    "setor": "Papel e Celulose",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "89.637.490/0001-45": {
+    "razao_social": "KLABIN S.A.",
+    "setor": "Papel e Celulose",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "16.404.287/0001-55": {
+    "razao_social": "SUZANO S.A.",
+    "setor": "Papel e Celulose",
+    "municipio": "SALVADOR",
+    "uf": "BA",
+    "lat": -12.9718,
+    "lon": -38.5011
+  },
+  "42.150.391/0001-70": {
+    "razao_social": "BRASKEM S.A.",
+    "setor": "Petroquímicos e Borracha",
+    "municipio": "CAMACARI",
+    "uf": "BA",
+    "lat": -12.6996,
+    "lon": -38.3263
+  },
+  "22.266.175/0001-88": {
+    "razao_social": "FERTILIZANTES HERINGER S.A.",
+    "setor": "Petroquímicos e Borracha",
+    "municipio": "PAULINIA",
+    "uf": "SP",
+    "lat": -22.7542,
+    "lon": -47.1488
+  },
+  "14.807.945/0001-24": {
+    "razao_social": "SANSUY SA INDÚSTRIA  DE PLASTICOS",
+    "setor": "Petroquímicos e Borracha",
+    "municipio": "CAMACARI",
+    "uf": "BA",
+    "lat": -12.6996,
+    "lon": -38.3263
+  },
+  "15.115.504/0001-24": {
+    "razao_social": "TRONOX PIGMENTOS DO BRASIL S.A.",
+    "setor": "Petroquímicos e Borracha",
+    "municipio": "CAMACARI",
+    "uf": "BA",
+    "lat": -12.6996,
+    "lon": -38.3263
+  },
+  "33.958.695/0001-78": {
+    "razao_social": "UNIPAR CARBOCLORO S.A.",
+    "setor": "Petroquímicos e Borracha",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "12.091.809/0001-55": {
+    "razao_social": "BRAVA ENERGIA S.A.",
+    "setor": "Petróleo e Gás",
+    "municipio": "RIO DE JANEIRO",
+    "uf": "RJ",
+    "lat": -22.9129,
+    "lon": -43.2003
+  },
+  "09.114.805/0001-30": {
+    "razao_social": "OCEANPACT SERVIÇOS MARÍTIMOS S.A.",
+    "setor": "Petróleo e Gás",
+    "municipio": "RIO DE JANEIRO",
+    "uf": "RJ",
+    "lat": -22.9129,
+    "lon": -43.2003
+  },
+  "33.000.167/0001-01": {
+    "razao_social": "PETRÓLEO BRASILEIRO  S.A.  - PETROBRAS",
+    "setor": "Petróleo e Gás",
+    "municipio": "RIO DE JANEIRO",
+    "uf": "RJ",
+    "lat": -22.9129,
+    "lon": -43.2003
+  },
+  "10.629.105/0001-68": {
+    "razao_social": "PRIO S.A.",
+    "setor": "Petróleo e Gás",
+    "municipio": "Rio de Janeiro",
+    "uf": "RJ",
+    "lat": -22.9129,
+    "lon": -43.2003
+  },
+  "12.648.266/0001-24": {
+    "razao_social": "AMBIPAR PARTICIPAÇÕES E EMPREENDIMENTOS S.A.",
+    "setor": "Saneamento, Serv. Água e Gás",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "43.776.517/0001-80": {
+    "razao_social": "CIA SANEAMENTO BÁSICO ESTADO SÃO PAULO",
+    "setor": "Saneamento, Serv. Água e Gás",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "17.281.106/0001-03": {
+    "razao_social": "COMPANHIA DE SANEAMENTO DE MINAS GERAIS",
+    "setor": "Saneamento, Serv. Água e Gás",
+    "municipio": "BELO HORIZONTE",
+    "uf": "MG",
+    "lat": -19.9102,
+    "lon": -43.9266
+  },
+  "08.159.965/0001-33": {
+    "razao_social": "IGUA SANEAMENTO S.A.",
+    "setor": "Saneamento, Serv. Água e Gás",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "11.421.994/0001-36": {
+    "razao_social": "ORIZON VALORIZAÇÃO DE RESÍDUOS S.A.",
+    "setor": "Saneamento, Serv. Água e Gás",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "18.328.118/0001-09": {
+    "razao_social": "(sem razão social)",
+    "setor": "Sem setor",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "61.065.751/0001-80": {
+    "razao_social": "(sem razão social)",
+    "setor": "Sem setor",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "51.128.999/0001-90": {
+    "razao_social": "(sem razão social)",
+    "setor": "Sem setor",
+    "municipio": "BARUERI",
+    "uf": "SP",
+    "lat": -23.5057,
+    "lon": -46.879
+  },
+  "32.785.497/0001-97": {
+    "razao_social": "(sem razão social)",
+    "setor": "Sem setor",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "42.771.949/0001-35": {
+    "razao_social": "ALLIANÇA SAÚDE E PARTICIPAÇÕES S.A.",
+    "setor": "Serviços Médicos",
+    "municipio": "BELO HORIZONTE",
+    "uf": "MG",
+    "lat": -19.9102,
+    "lon": -43.9266
+  },
+  "58.119.199/0001-51": {
+    "razao_social": "BRADSAÚDE S.A.",
+    "setor": "Serviços Médicos",
+    "municipio": "Barueri",
+    "uf": "SP",
+    "lat": -23.5057,
+    "lon": -46.879
+  },
+  "61.486.650/0001-83": {
+    "razao_social": "DIAGNOSTICOS DA AMERICA SA",
+    "setor": "Serviços Médicos",
+    "municipio": "BARUERI",
+    "uf": "SP",
+    "lat": -23.5057,
+    "lon": -46.879
+  },
+  "60.840.055/0001-31": {
+    "razao_social": "FLEURY SA",
+    "setor": "Serviços Médicos",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "05.197.443/0001-38": {
+    "razao_social": "HAPVIDA PARTICIPAÇÕES E INVESTIMENTOS S.A.",
+    "setor": "Serviços Médicos",
+    "municipio": "FORTALEZA",
+    "uf": "CE",
+    "lat": -3.71664,
+    "lon": -38.5423
+  },
+  "16.676.520/0001-59": {
+    "razao_social": "HOSPITAL MATER DEI S.A.",
+    "setor": "Serviços Médicos",
+    "municipio": "BELO HORIZONTE",
+    "uf": "MG",
+    "lat": -19.9102,
+    "lon": -43.9266
+  },
+  "26.659.061/0001-59": {
+    "razao_social": "MPM CORPÓREOS S.A.",
+    "setor": "Serviços Médicos",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "06.047.087/0001-39": {
+    "razao_social": "REDE D'OR SÃO LUIZ S.A.",
+    "setor": "Serviços Médicos",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "60.537.263/0001-66": {
+    "razao_social": "ALLPARK EMPREENDIMENTOS, PARTICIPAÇÕES E SERVIÇOS S.A.",
+    "setor": "Serviços Transporte e Logística",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "00.242.184/0001-04": {
+    "razao_social": "ARMAC LOCAÇÃO, LOGÍSTICA E SERVIÇOS S.A.",
+    "setor": "Serviços Transporte e Logística",
+    "municipio": "VARGEM GRANDE PAULISTA",
+    "uf": "SP",
+    "lat": -23.5993,
+    "lon": -47.022
+  },
+  "35.654.688/0001-08": {
+    "razao_social": "AUTOMOB PARTICIPAÇÕES S.A.",
+    "setor": "Serviços Transporte e Logística",
+    "municipio": "CUIABA",
+    "uf": "MT",
+    "lat": -15.601,
+    "lon": -56.0974
+  },
+  "01.107.327/0001-20": {
+    "razao_social": "BBM LOGÍSTICA S.A.",
+    "setor": "Serviços Transporte e Logística",
+    "municipio": "SAO JOSE DOS PINHAIS",
+    "uf": "PR",
+    "lat": -25.5313,
+    "lon": -49.2031
+  },
+  "04.149.454/0001-80": {
+    "razao_social": "ECORODOVIAS INFRAESTRUTURA E LOGÍSTICA S.A.",
+    "setor": "Serviços Transporte e Logística",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "00.924.429/0001-75": {
+    "razao_social": "FERROVIA CENTRO-ATLANTICA S.A.",
+    "setor": "Serviços Transporte e Logística",
+    "municipio": "Belo Horizonte",
+    "uf": "MG",
+    "lat": -19.9102,
+    "lon": -43.9266
+  },
+  "12.648.327/0001-53": {
+    "razao_social": "HIDROVIAS DO BRASIL S.A.",
+    "setor": "Serviços Transporte e Logística",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "52.548.435/0001-79": {
+    "razao_social": "JSL S.A.",
+    "setor": "Serviços Transporte e Logística",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "16.670.085/0001-55": {
+    "razao_social": "LOCALIZA RENT A CAR SA",
+    "setor": "Serviços Transporte e Logística",
+    "municipio": "BELO HORIZONTE",
+    "uf": "MG",
+    "lat": -19.9102,
+    "lon": -43.9266
+  },
+  "42.278.291/0001-24": {
+    "razao_social": "LOG-IN LOGISTICA INTERMODAL SA",
+    "setor": "Serviços Transporte e Logística",
+    "municipio": "RIO DE JANEIRO",
+    "uf": "RJ",
+    "lat": -22.9129,
+    "lon": -43.2003
+  },
+  "08.795.211/0001-70": {
+    "razao_social": "MAESTRO LOCADORA DE VEÍCULOS S.A.",
+    "setor": "Serviços Transporte e Logística",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "27.093.558/0001-15": {
+    "razao_social": "MILLS LOCAÇÃO, SERVIÇOS E LOGÍSTICA S.A.",
+    "setor": "Serviços Transporte e Logística",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "21.314.559/0001-66": {
+    "razao_social": "MOVIDA PARTICIPAÇÕES S.A.",
+    "setor": "Serviços Transporte e Logística",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "01.599.101/0001-93": {
+    "razao_social": "SEQUOIA LOGÍSTICA E TRANSPORTES S.A.",
+    "setor": "Serviços Transporte e Logística",
+    "municipio": "BARUERI",
+    "uf": "SP",
+    "lat": -23.5057,
+    "lon": -46.879
+  },
+  "07.415.333/0001-20": {
+    "razao_social": "SIMPAR S.A.",
+    "setor": "Serviços Transporte e Logística",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "02.351.144/0001-18": {
+    "razao_social": "TEGMA GESTÃO LOGÍSTICA SA",
+    "setor": "Serviços Transporte e Logística",
+    "municipio": "SAO BERNARDO DO CAMPO",
+    "uf": "SP",
+    "lat": -23.6914,
+    "lon": -46.5646
+  },
+  "23.373.000/0001-32": {
+    "razao_social": "VAMOS LOCAÇÃO DE CAMINHÕES, MÁQUINAS E EQUIPAMENTOS S.A.",
+    "setor": "Serviços Transporte e Logística",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "32.681.371/0001-72": {
+    "razao_social": "VIX LOGÍSTICA S/A",
+    "setor": "Serviços Transporte e Logística",
+    "municipio": "VITORIA",
+    "uf": "ES",
+    "lat": -20.3155,
+    "lon": -40.3128
+  },
+  "04.601.397/0001-28": {
+    "razao_social": "BRISANET SERVIÇOS DE TELECOMUNICAÇÕES S.A.",
+    "setor": "Telecomunicações",
+    "municipio": "PEREIRO",
+    "uf": "CE",
+    "lat": -6.03576,
+    "lon": -38.4624
+  },
+  "08.170.849/0001-15": {
+    "razao_social": "DESKTOP S.A",
+    "setor": "Telecomunicações",
+    "municipio": "NOVA ODESSA",
+    "uf": "SP",
+    "lat": -22.7832,
+    "lon": -47.2941
+  },
+  "00.336.701/0001-04": {
+    "razao_social": "TELEC. BRASILEIRAS S.A. - TELEBRÁS",
+    "setor": "Telecomunicações",
+    "municipio": "BRASILIA",
+    "uf": "DF",
+    "lat": -15.7795,
+    "lon": -47.9297
+  },
+  "02.558.157/0001-62": {
+    "razao_social": "TELEFÔNICA BRASIL S.A.",
+    "setor": "Telecomunicações",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "02.421.421/0001-11": {
+    "razao_social": "TIM S.A.",
+    "setor": "Telecomunicações",
+    "municipio": "RIO DE JANEIRO",
+    "uf": "RJ",
+    "lat": -22.9129,
+    "lon": -43.2003
+  },
+  "61.079.117/0001-05": {
+    "razao_social": "ALPARGATAS SA",
+    "setor": "Têxtil e Vestuário",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "16.590.234/0001-76": {
+    "razao_social": "AZZAS 2154 S.A.",
+    "setor": "Têxtil e Vestuário",
+    "municipio": "BELO HORIZONTE",
+    "uf": "MG",
+    "lat": -19.9102,
+    "lon": -43.9266
+  },
+  "45.242.914/0001-05": {
+    "razao_social": "C&A MODAS S.A.",
+    "setor": "Têxtil e Vestuário",
+    "municipio": "BARUERI",
+    "uf": "SP",
+    "lat": -23.5057,
+    "lon": -46.879
+  },
+  "61.088.894/0001-08": {
+    "razao_social": "CAMBUCI SA",
+    "setor": "Têxtil e Vestuário",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "17.245.234/0001-00": {
+    "razao_social": "COMPANHIA DE FIACAO E TECIDOS CEDRO E CACHOEIRA",
+    "setor": "Têxtil e Vestuário",
+    "municipio": "BELO HORIZONTE",
+    "uf": "MG",
+    "lat": -19.9102,
+    "lon": -43.9266
+  },
+  "84.683.408/0001-03": {
+    "razao_social": "DOHLER S.A.",
+    "setor": "Têxtil e Vestuário",
+    "municipio": "JOINVILLE",
+    "uf": "SC",
+    "lat": -26.3045,
+    "lon": -48.8487
+  },
+  "89.850.341/0001-60": {
+    "razao_social": "GRENDENE SA",
+    "setor": "Têxtil e Vestuário",
+    "municipio": "SOBRAL",
+    "uf": "CE",
+    "lat": -3.68913,
+    "lon": -40.3482
+  },
+  "08.402.943/0001-52": {
+    "razao_social": "GUARARAPES CONFECÇÕES SA",
+    "setor": "Têxtil e Vestuário",
+    "municipio": "NATAL",
+    "uf": "RN",
+    "lat": -5.79357,
+    "lon": -35.1986
+  },
+  "82.640.558/0001-04": {
+    "razao_social": "KARSTEN SA",
+    "setor": "Têxtil e Vestuário",
+    "municipio": "BLUMENAU",
+    "uf": "SC",
+    "lat": -26.9155,
+    "lon": -49.0709
+  },
+  "88.610.191/0001-54": {
+    "razao_social": "MUNDIAL S.A - PRODUTOS DE CONSUMO",
+    "setor": "Têxtil e Vestuário",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "88.613.658/0001-10": {
+    "razao_social": "PETTENATI S.A. INDUSTRIA TEXTIL",
+    "setor": "Têxtil e Vestuário",
+    "municipio": "CAXIAS DO SUL",
+    "uf": "RS",
+    "lat": -29.1629,
+    "lon": -51.1792
+  },
+  "59.418.806/0001-47": {
+    "razao_social": "TRACK & FIELD CO S.A",
+    "setor": "Têxtil e Vestuário",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "lat": -23.5329,
+    "lon": -46.6395
+  },
+  "82.982.075/0001-80": {
+    "razao_social": "TÊXTIL RENAUXVIEW S/A",
+    "setor": "Têxtil e Vestuário",
+    "municipio": "BRUSQUE",
+    "uf": "SC",
+    "lat": -27.0977,
+    "lon": -48.9107
+  },
+  "50.926.955/0001-42": {
+    "razao_social": "VULCABRAS S.A.",
+    "setor": "Têxtil e Vestuário",
+    "municipio": "JUNDIAI",
+    "uf": "SP",
+    "lat": -23.1852,
+    "lon": -46.8974
+  }
+}
