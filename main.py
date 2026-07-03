@@ -1,5 +1,5 @@
 """
-main.py — A API (FastAPI) do Domo Consultoria.
+main.py — A API (FastAPI) do Mirante.
 
 Sobe um servidor que devolve, em JSON, os dados que o front-end React vai desenhar.
 Rode com:   uvicorn main:app --reload
@@ -11,7 +11,7 @@ from fastapi.middleware.cors import CORSMiddleware
 import core
 
 app = FastAPI(
-    title="Domo Consultoria — API de Indicadores Financeiros",
+    title="Mirante — API de Indicadores Financeiros",
     description="API que serve os dados da camada Gold (CVM/DFP) para o dashboard.",
     version="1.0.0",
 )
@@ -29,7 +29,7 @@ app.add_middleware(
 
 @app.get("/")
 def raiz():
-    return {"ok": True, "servico": "Domo Consultoria API", "docs": "/docs"}
+    return {"ok": True, "servico": "Mirante API", "docs": "/docs"}
 
 
 @app.get("/api/health")
