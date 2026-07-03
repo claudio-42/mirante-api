@@ -1,93 +1,88 @@
-# Mirante — API (Backend)
+# Mirante API
 
-API em **FastAPI** que serve dados financeiros de empresas (camada Gold, CVM/DFP) para o front-end web do Mirante. Toda a lógica de indicadores e diagnóstico foi portada de um app Streamlit original, sem depender mais do Streamlit.
+API em FastAPI que serve os indicadores financeiros de companhias abertas da B3 (dados CVM/DFP) em formato JSON, para o front-end do Mirante. É a camada intermediária entre o banco de dados (PostgreSQL/Neon) e a interface em React.
 
-## Sobre o projeto
+**Documentação interativa (ao vivo):** https://mirante-api.onrender.com/docs
 
-O Mirante consome dados públicos da CVM (Comissão de Valores Mobiliários) já tratados em um pipeline de dados (camadas Silver/Gold) e expõe, via API, indicadores financeiros, demonstrativos contábeis e diagnóstico executivo automatizado de empresas de capital aberto. O banco de dados roda no [Neon](https://neon.tech) (Postgres serverless).
+> A API está hospedada no Render (plano gratuito) e hiberna após um período ocioso; a primeira requisição pode levar de 30 a 60 segundos para "acordar" o serviço.
 
-## Stack
+Este projeto faz parte de um sistema em três camadas:
 
-- **FastAPI** — servidor HTTP e documentação automática
-- **SQLAlchemy + psycopg2** — conexão com o Postgres (Neon)
-- **pandas / numpy** — cálculo de indicadores e séries históricas
-- **python-dotenv** — carregamento de variáveis de ambiente
+- **Pipeline de dados (CVM):** [bigdata_for_finance](https://github.com/claudio-42/bigdata_for_finance) — constrói a base
+- **API (este repositório):** consome a base e a expõe em JSON
+- **Front-end React:** [mirante-web](https://github.com/claudio-42/mirante-web) — consome esta API
 
-## O que a API faz
+---
 
-Documentação interativa disponível em `/docs` (Swagger UI).
+## Endpoints
 
-| Método | Rota | O que devolve |
-| ------ | ---- | -------------- |
+| Método | Rota | Descrição |
+| --- | --- | --- |
 | GET | `/api/health` | Testa a conexão com o banco |
-| GET | `/api/empresas` | Catálogo de empresas (CNPJ, razão social, setor) — para o seletor |
-| GET | `/api/mapa` | Empresas com coordenadas (lat/lon) para os pontos do mapa |
-| GET | `/api/empresa?cnpj=...` | Payload completo: KPIs, indicadores (série histórica + classificação) e diagnóstico executivo |
-| GET | `/api/demonstrativo?cnpj=...&tipo=bp\|dre\|dfc` | Demonstrativo contábil (Balanço, DRE ou DFC) pivotado por ano |
+| GET | `/api/empresas` | Catálogo de empresas (cnpj, razão, setor) |
+| GET | `/api/mapa` | Empresas com coordenadas (lat/lon) para o mapa |
+| GET | `/api/empresa?cnpj=...` | Payload completo de uma empresa: KPIs, indicadores e diagnóstico |
+| GET | `/api/demonstrativo?cnpj=...&tipo=bp\|dre\|dfc` | Demonstrativo contábil pivotado por ano |
 
-> O CNPJ vai como parâmetro de query (`?cnpj=...`), pois contém `/` e `.`, o que quebraria a rota se fosse parte do caminho.
+> O CNPJ vai como parâmetro de query (`?cnpj=...`) porque contém `/` e `.`.
+
+A documentação completa e testável de cada endpoint fica em `/docs` (Swagger, gerado automaticamente pelo FastAPI).
+
+---
+
+## Tecnologias
+
+Python, FastAPI, Uvicorn, SQLAlchemy, psycopg2, pandas. Banco PostgreSQL hospedado no Neon. Deploy no Render.
+
+---
 
 ## Como rodar localmente
 
-**1. Clone o repositório e entre na pasta:**
+A API não funciona sozinha: ela precisa de um banco PostgreSQL já populado com as camadas Silver e Gold (a "receita" da análise financeira). Esses dados são públicos da CVM e são construídos pelo pipeline em [bigdata_for_finance](https://github.com/claudio-42/bigdata_for_finance).
 
-```bash
-git clone https://github.com/claudio-42/mirante-api.git
-cd mirante-api
-```
+**Pré-requisitos:** Python 3.12, e um banco PostgreSQL com as camadas Silver e Gold (construídas via o pipeline acima, ou um dump próprio).
 
-**2. Crie um ambiente virtual e instale as dependências:**
+1. Instale as dependências:
+   ```bash
+   pip install -r requirements.txt
+   ```
+2. Crie um arquivo `.env` na raiz com a connection string do seu banco (formato — nunca versione este arquivo):
+   ```
+   DATABASE_URL=postgresql://usuario:senha@host:5432/nome_do_banco
+   ```
+   (Para Neon, use a string do connection pooler, terminando em `?sslmode=require`.)
+3. Suba a API:
+   ```bash
+   uvicorn main:app --reload
+   ```
+4. Acesse a documentação em `http://127.0.0.1:8000/docs`.
 
-Windows:
-```
-python -m venv venv
-venv\Scripts\activate
-pip install -r requirements.txt
-```
-
-Linux/macOS:
-```
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-```
-
-**3. Configure o banco.** Crie um arquivo `.env` na raiz do projeto com a sua connection string do Neon (use a versão **com** `-pooler`, sem o parâmetro `&channel_binding`):
-
-```
-DATABASE_URL=postgresql://neondb_owner:SUA_SENHA@ep-...-pooler.sa-east-1.aws.neon.tech/neondb?sslmode=require
-```
-
-**4. Suba a API:**
-
-```
-uvicorn main:app --reload
-```
-
-**5. Teste no navegador:**
-
-- `http://127.0.0.1:8000/docs` → documentação interativa (clique em "Try it out")
-- `http://127.0.0.1:8000/api/empresas` → deve retornar a lista de empresas em JSON
-
-Se o JSON com as empresas aparecer, o backend está funcionando e conectado ao Neon. 🎉
+---
 
 ## Estrutura
 
 ```
 mirante-api/
-├── main.py             # A API (endpoints + CORS)
-├── core.py              # Conexão com o banco + queries + lógica de indicadores/diagnóstico
-├── scripts/              # Scripts auxiliares (ex.: geração de localizacoes.json)
-├── localizacoes.json     # Coordenadas das empresas, usadas pelo endpoint /api/mapa
-├── requirements.txt      # Dependências
+├── scripts/                        Ferramentas de preparação de dados (uso único)
+│   ├── 01_geocodificar_empresas.py   Geocodifica as sedes via BrasilAPI + IBGE
+│   └── 02_completar_manual.py        Completa manualmente as empresas não encontradas
+├── core.py                         Conexão, queries e lógica de indicadores/diagnóstico
+├── main.py                         Definição da API (endpoints e CORS)
+├── localizacoes.json               Coordenadas das empresas (gerado pelos scripts)
+├── requirements.txt
+├── .python-version                 Fixa o Python 3.12 para o deploy
+├── .gitignore
 └── README.md
 ```
 
-## Próximos passos
+---
 
-- **Deploy:** publicar o backend (Render) e o front-end (Vercel).
-- **Cobertura de dados:** ampliar o catálogo de empresas e setores.
+## Deploy (Render)
+
+- **Start Command:** `uvicorn main:app --host 0.0.0.0 --port $PORT`
+- **Variável de ambiente:** `DATABASE_URL` (connection string do Neon)
+- A versão do Python é fixada em 3.12 pelo arquivo `.python-version`.
 
 ---
 
-Projeto pessoal desenvolvido por [claudio-42](https://github.com/claudio-42).
+*Parte do projeto Mirante, desenvolvido a partir da disciplina de Big Data for Finance. Dados públicos da CVM; finalidade acadêmica, não constitui recomendação de investimento.*
